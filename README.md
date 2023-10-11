@@ -1,14 +1,8 @@
 ## Hey 👋, I'm boyxlj!  
 
-
-
-
 ### Glad to see you here!  
 
-  
-
 <br/>
-
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
@@ -22,8 +16,6 @@
 </td></tr></table>  
 
 <br/>  
-
-
 
 
 ## Languages and Tools  
