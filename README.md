@@ -1,4 +1,4 @@
-## Hey 👋, I'm boyxlj!  
+## Hey 👋!  
 
 ### Glad to see you here!  
 
